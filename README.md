@@ -83,9 +83,10 @@ ENTER AMOUNT YOU WANT TO DEPOSIT : 500
 
 You have credited 500 Rs in your account...
 
-**🧩 Key Concepts Used
-**
-**Python Functions & Modular Programming
+**🧩 Key Concepts Used**
+
+
+Python Functions & Modular Programming
 
 Conditional Statements (if-elif-else)
 
@@ -97,6 +98,8 @@ Global State Sharing (via module import)
 
 Date & Time Handling (datetime)
 **
+
+
 **⚠️ Limitations**
 
 No user authentication (PIN/Login not implemented)
@@ -133,15 +136,17 @@ Handling shared state across multiple files
 
 Building structured CLI applications
 
-**
-👨‍💻 Author**
+
+
+**👨‍💻 Author**
 
 Neeraj Grover
 
 B.Tech Robotics & AI Student
 
-**
-⭐ Support**
+
+
+**⭐ Support**
 
 If you found this project helpful:
 
