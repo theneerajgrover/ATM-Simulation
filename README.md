@@ -1,3 +1,10 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+
+![License](https://img.shields.io/badge/License-MIT-green)
+
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+
+
 **#🏦 ATM Simulation System (Python)**
 
 A modular Command-Line ATM Simulation built using Python. This project replicates basic banking operations such as balance inquiry, deposit, withdrawal, and transaction history tracking using a structured multi-file architecture.
